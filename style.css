@@ -1,0 +1,173 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+.nav-link:hover,.active{
+    color: yellow !important; 
+}
+
+.nav-link{
+    color: white !important;
+}
+
+body{
+    background-image: url("https://images.pexels.com/photos/11481753/pexels-photo-11481753.jpeg?auto=compress&cs=tinysrgb&w=2400");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.navbar-brand{
+    color: white !important;
+}
+
+.h1{
+    color: yellow !important;
+}
+
+.h3{
+    color: white !important;
+}
+.content{
+    height: 90vh;
+}
+.about{
+    height: 60vh;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=2400");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.card-area{
+    height: fit-content;
+    background-color: #152040;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.card-container{
+    height: 80%;
+}
+
+
+.card1{
+    background-image: url("https://images.pexels.com/photos/7008962/pexels-photo-7008962.jpeg?auto=compress&cs=tinysrgb&w=1200");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card2{
+
+    background-image: url("https://images.pexels.com/photos/3046582/pexels-photo-3046582.jpeg?auto=compress&cs=tinysrgb&w=1200");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.card3{
+    background-image: url("https://images.pexels.com/photos/3098971/pexels-photo-3098971.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.carousel{
+    height: 70vh;
+}
+ 
+.cbtn{
+    width: 1% !important;
+    border-radius: 50% !important;
+    height: 10px !important;
+}
+
+.paragraph,.h3,.cnt{
+    color: #152040 !important;
+}
+
+.turtle{
+    height: 80vh;
+    background-image: url("https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&w=1200");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: yellow !important;
+
+}
+
+.sponsor{
+    height: 80vh;
+    color: yellow !important;
+    background-color: #152040 !important;
+}
+
+.map-part{
+    height: 70vh;
+}
+
+.contact-part{
+    height: fit-content;
+    color: #152040;
+}
+
+.details{
+    color: #152040;
+}
+
+.sbtn{
+    background-color: #152040;
+}
+
+.sbtn:hover{
+    background-color: #6575a7;
+}
+
+.download{
+    height: fit-content;
+    background-color: #152040!important;
+
+}
+
+.option{
+    background-color: #152040 !important;
+}
+
+.form-select:hover{
+    border: 2px solid white !important;
+}
+
+.number{
+    background-color: transparent !important;
+}
+
+.number:hover{
+    border: 2px solid white !important;
+}
+
+.number::placeholder{
+    color: white !important;
+}
+
+.link{
+    height: fit-content;
+    background-color: #152040;
+}
+
+.since{
+    height: fit-content;
+    background-color: #152040;
+}
+
+.chats{
+    height: 8vh;
+    background-color: #FFDC21;
+    color: #152040;
+ 
+    position: fixed;
+    bottom: 0;
+    right: 50px;
+}
